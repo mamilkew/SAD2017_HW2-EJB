@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="Homework2EJB:ear">
+    <output-path>$PROJECT_DIR$/out/artifacts/Homework2EJB_ear</output-path>
+    <root id="archive" name="Homework2EJB_ear.ear">
+      <element id="artifact" artifact-name="Homework2EJB:ear exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

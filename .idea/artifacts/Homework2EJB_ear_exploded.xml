@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Homework2EJB:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Homework2EJB_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Homework2EJB/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        <element id="archive" name="common.jar">
+          <element id="module-output" name="common" />
+        </element>
+      </element>
+      <element id="directory" name="ThisBetterWork.jar">
+        <element id="artifact" artifact-name="ThisBetterWork:ejb exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
